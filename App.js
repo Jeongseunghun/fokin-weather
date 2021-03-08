@@ -7,7 +7,7 @@ import axios from "axios";
 import Weather from "./Weather";
 
 
-const API_KEY = "89102c4c75df8e236e0f02dce2b79f7a";
+const API_KEY = "";
 
 
 export default class extends React.Component{
